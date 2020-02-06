@@ -1,5 +1,11 @@
 # Anzhalika Buben
 
+My | Contacts
+----------|----------
+Mail | 48lika48@mail.ru
+Phone | +375(29)2045717
+Telegram | 48lika48
+Birthday | 10.11.1991
 
 ## Summary
 I have an analytical mind. I like working with numbers and large amounts of data.   
