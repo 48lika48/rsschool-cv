@@ -26,6 +26,13 @@ td {
     padding: 5px 0px 5px 10px; 
 }
 
+img {
+    width: 200px;
+    height: 200px;
+    float: right;
+    border-radius: 25px;
+}
+
 a:link { 
     color: rgb(90, 70, 150); 
 }
