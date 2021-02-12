@@ -1,0 +1,48 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.contacts {
+    padding-bottom: 20px;
+}
+
+table {
+    width: 300px;
+    border-collapse: collapse;
+    display: inline-block;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 1px 1px 1px 1px;
+    height: 30px;
+    width: 300px;
+}
+
+td {
+    text-align: justify;
+    padding: 5px 0px 5px 10px; 
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: right;
+    border-radius: 25px;
+}
+
+a:link { 
+    color: rgb(90, 70, 150); 
+}
+
+.eng {
+    margin-bottom: 0px;
+    padding-bottom: 16px; 
+}
+
+footer {
+    font-size: 12px;
+    padding: 10px 0px;
+}
